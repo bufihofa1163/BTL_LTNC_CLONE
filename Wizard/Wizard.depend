@@ -1,0 +1,236 @@
+# depslib dependency file v1.0
+1677036386 source:c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\sdl_utils.cpp
+	<iostream>
+	"SDL_utils.h"
+
+1677036386 c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1677036465 source:c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	"SDL_utils.h"
+	"Menu.h"
+
+1677735022 c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\menu.h
+	"Entity.h"
+	<bits/stdc++.h>
+
+1677775219 c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\entity.h
+	<iostream>
+	"SDL_utils.h"
+
+1677739067 source:c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\mainmenu.cpp
+	"Menu.h"
+	"NewGame.h"
+	<thread>
+	<chrono>
+
+1677862940 source:c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\newgame.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_utils.h"
+	"Game.h"
+	"NewGame.h"
+	"Animation.h"
+	<thread>
+	<chrono>
+
+1677740450 c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\game.h
+	<SDL.h>
+	"Animation.h"
+
+1676544079 c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\newgame.h
+	"SDL_utils.h"
+
+1677919350 source:c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\game.cpp
+	"Npc.h"
+	"Animation.h"
+	"Game.h"
+	<bits/stdc++.h>
+
+1677814221 c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\animation.h
+	<bits/stdc++.h>
+	<SDL.h>
+	"SDL_utils.h"
+	"Entity.h"
+
+1677863791 c:\users\hoapr\onedrive\máy tính\sdl2_code\firewizard\npc.h
+	<bits/stdc++.h>
+	"Entity.h"
+	"Animation.h"
+
+1678187786 source:c:\users\hoapr\onedrive\máy tính\firewizard\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	"SDL_utils.h"
+	"Menu.h"
+
+1677036386 c:\users\hoapr\onedrive\máy tính\firewizard\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1677735022 c:\users\hoapr\onedrive\máy tính\firewizard\menu.h
+	"Entity.h"
+	<bits/stdc++.h>
+
+1678690957 c:\users\hoapr\onedrive\máy tính\firewizard\entity.h
+	<iostream>
+	"SDL_utils.h"
+
+1678853460 source:c:\users\hoapr\onedrive\máy tính\firewizard\mainmenu.cpp
+	"Menu.h"
+	"NewGame.h"
+	<thread>
+	<chrono>
+
+1678189217 c:\users\hoapr\onedrive\máy tính\firewizard\newgame.h
+	"SDL_utils.h"
+
+1680020659 source:c:\users\hoapr\onedrive\máy tính\firewizard\newgame.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_utils.h"
+	"Game.h"
+	"NewGame.h"
+	"Animation.h"
+	<thread>
+	<chrono>
+
+1680020694 c:\users\hoapr\onedrive\máy tính\firewizard\game.h
+	<SDL.h>
+	"Animation.h"
+
+1680020649 c:\users\hoapr\onedrive\máy tính\firewizard\animation.h
+	<bits/stdc++.h>
+	<SDL.h>
+	"SDL_utils.h"
+	"Entity.h"
+
+1677036386 source:c:\users\hoapr\onedrive\máy tính\firewizard\sdl_utils.cpp
+	<iostream>
+	"SDL_utils.h"
+
+1679110203 source:c:\users\hoapr\onedrive\máy tính\firewizard\game.cpp
+	"Npc.h"
+	"Animation.h"
+	"Game.h"
+	<bits/stdc++.h>
+
+1679110092 c:\users\hoapr\onedrive\máy tính\firewizard\npc.h
+	<bits/stdc++.h>
+	"Animation.h"
+	"Game.h"
+
+1679110829 source:c:\users\hoapr\onedrive\máy tính\firewizard\npc.cpp
+	"Npc.h"
+
+1683261978 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\sdl_utils.cpp
+	<iostream>
+	"SDL_utils.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1683183857 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\sdl_utils.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1683429038 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\main.cpp
+	<bits/stdc++.h>
+	"Menu.h"
+
+1683430759 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\menu.h
+	<bits/stdc++.h>
+	"Entity.h"
+
+1683356346 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\entity.h
+	<bits/stdc++.h>
+	"SDL_utils.h"
+
+1683431762 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\mainmenu.cpp
+	"MainMenu.h"
+	"Menu.h"
+	"NewGame.h"
+
+1681974103 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\newgame.h
+	<bits/stdc++.h>
+	<SDL.h>
+
+1683429319 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\newgame.cpp
+	"NewGame.h"
+	"Game.h"
+	<thread>
+	<chrono>
+
+1683431815 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	"Animation.h"
+
+1681974232 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\animation.h
+	<bits/stdc++.h>
+	"SDL_utils.h"
+
+1683437211 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\game.cpp
+	<bits/stdc++.h>
+	"Game.h"
+	"Entity.h"
+	"Npc.h"
+	"Grid.h"
+	"MainMenu.h"
+	"Menu.h"
+	"NewGame.h"
+
+1683389350 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\npc.h
+	<bits/stdc++.h>
+	"Animation.h"
+	"Entity.h"
+
+1683392307 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\npc.cpp
+	"Npc.h"
+	"Game.h"
+	"Grid.h"
+
+1683036614 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\mainmenu.h
+	<bits/stdc++.h>
+	<thread>
+	<chrono>
+	"SDL_utils.h"
+
+1681357725 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\tree.cpp
+	"Tree.h"
+
+1681357808 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\tree.h
+	"Npc.h"
+
+1683217466 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\qtree.h
+	<bits/stdc++.h>
+
+1683218748 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\qtree.cpp
+	"QTree.h"
+	"Game.h"
+	"Npc.h"
+
+1681367506 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\vacham.h
+	"Npc.h"
+
+1681991047 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\sdl_text.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<bits/stdc++.h>
+
+1683262303 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\rr.rc
+
+1683351725 c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\grid.h
+	<bits/stdc++.h>
+
+1683388181 source:c:\users\hoapr\onedrive\máy tính\btl ltnc\bv\advprog_btl\wizard\grid.cpp
+	"Grid.h"
+	"Game.h"
+	"Npc.h"
+
